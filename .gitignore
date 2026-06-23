@@ -24,3 +24,8 @@ models/*.joblib
 # Secrets — never upload these
 .env
 *.env
+
+# Personal study notes (keep local only)
+LESSONS.md
+TODO.md
+requirements.txt
